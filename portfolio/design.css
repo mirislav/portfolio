@@ -1,21 +1,12 @@
 .text1 {
-    font-size: 1.3rem;
+    font-size: 1.7rem;
     text-align: left;
 }
 
-.bentley {
-    height: 30%;
-    width: 15%;
-}
-
-.porche{
-    height: 50%;
-    width: 15%;
-}
-
-.benzo{
-    height: 50%;
-    width: 15%;
+.container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 .csgo{
@@ -39,4 +30,34 @@
 
 .footer {
     text-align: center;
+}
+
+.text1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.text2 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.text3 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.7rem;
+}
+
+.text4 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.text5 {
+    color: aliceblue;
+    text-align: center;
+}
+.container {
+    color: aliceblue;
 }
